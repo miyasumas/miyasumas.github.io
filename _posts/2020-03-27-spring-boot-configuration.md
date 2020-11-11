@@ -1,4 +1,8 @@
-# Spring Bootの設定値をMapで受けたい
+---
+categories: Java, Spring Boot
+---
+
+# Spring Boot の設定値を Map で受けたい
 
 ## 遭遇したできごと
 
