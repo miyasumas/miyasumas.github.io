@@ -2,4 +2,12 @@ title: miyasumas.github.io
 description: 
 google_analytics: 
 show_downloads: false
+github_username: miyasumas
+author: miyasumas
+
 theme: jekyll-theme-hacker
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
