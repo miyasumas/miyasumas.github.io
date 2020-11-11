@@ -1,3 +1,7 @@
+---
+tags: Java
+---
+
 # Google Guava をもっと活用する
 
 ## Google Guava とは

@@ -1,3 +1,7 @@
+---
+tags: Solr
+---
+
 # Solr の DocValues
 
 最近、仕事で Solr をいじっています。
