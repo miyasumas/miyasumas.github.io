@@ -2,7 +2,4 @@ title: miyasumas.github.io
 description: 
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-cayman
-
-gems:
-  - jekyll-mentions
+theme: jekyll-theme-hacker
