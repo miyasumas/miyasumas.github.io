@@ -5,7 +5,11 @@ show_downloads: false
 github_username: miyasumas
 author: miyasumas
 
-theme: jekyll-theme-hacker
+#theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
 
 titles_from_headings:
   enabled: true
