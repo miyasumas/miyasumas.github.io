@@ -1,5 +1,6 @@
 ---
-tags: Solr
+tags:
+- Solr
 ---
 
 # Solr の DocValues

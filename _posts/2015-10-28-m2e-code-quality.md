@@ -1,5 +1,8 @@
 ---
-tags: eclipse, Java, maven
+tags:
+- eclipse
+- Java
+- maven
 ---
 
 # eclipse + maven + m2e-code-quality で Java コードの品質を保つ
