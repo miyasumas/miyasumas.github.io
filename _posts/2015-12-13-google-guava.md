@@ -1,5 +1,6 @@
 ---
-tags: Java
+tags:
+- Java
 ---
 
 # Google Guava をもっと活用する

@@ -1,5 +1,7 @@
 ---
-categories: Java, Spring Boot
+tags:
+- Java
+- Spring Boot
 ---
 
 # Spring Boot の設定値を Map で受けたい
