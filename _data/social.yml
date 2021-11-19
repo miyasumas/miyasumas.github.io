@@ -1,0 +1,9 @@
+- title: Feed
+  url: /feed.xml
+  icon: fas fa-rss-square fa-2x
+- title: GitHub
+  url: https://github.com/miyasumas
+  icon: fab fa-github-square fa-2x
+- title: Qiita
+  url: https://qiita.com/miyasumas
+  icon: fas fa-link fa-2x

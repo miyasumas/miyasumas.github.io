@@ -1,13 +1,11 @@
 title: miyasumas.github.io
-description: miyasumas.github.io
+lang: ja
 
-remote_theme: jekyll/minima
+remote_theme: zivhub/monophase
 
-minima:
-  skin: dark
-  social_links: 
-    github: miyasumas
-    qiita: miyasumas
+author:
+  name: miyasumas
+  url: https://miyasumas.github.io/
 
 titles_from_headings:
   enabled: true
