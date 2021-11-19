@@ -1,15 +1,13 @@
 title: miyasumas.github.io
-description: 
-google_analytics: 
-show_downloads: false
-github_username: miyasumas
-author: miyasumas
+description: miyasumas.github.io
 
-#theme: minima
 remote_theme: jekyll/minima
 
 minima:
   skin: dark
+  social_links: 
+    github: miyasumas
+    qiita: miyasumas
 
 titles_from_headings:
   enabled: true
